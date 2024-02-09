@@ -98,6 +98,7 @@ Service Offerings Document
         Testing and Quality Assurance
         Documentation
         Deployment and Integration
+    Pricing: 150 USD per hour
 
 2. Machine Learning Engineering
 
@@ -113,6 +114,8 @@ Service Offerings Document
         API Development
         Documentation and Knowledge Transfer
         Deployment and Integration Support
+    Pricing: 150 USD per hour
+
 
 3. Internal Document Chatbot
 
@@ -128,6 +131,7 @@ Service Offerings Document
         Early Access to Demo App
         Thorough Testing
         Full Release
+    Pricing: 25000 USD
 
 4. E-commerce Customer Service Chatbot
 
@@ -140,3 +144,5 @@ Service Offerings Document
         Thorough Testing
         A/B Testing on Customers
         Full Release or Refund
+
+        Pricing: 10000 USD
