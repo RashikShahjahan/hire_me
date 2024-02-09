@@ -1,6 +1,6 @@
 
 
-Software development
+Service 1: Software development
 
 Summary
 
@@ -35,7 +35,7 @@ Documentation: Creating detailed documentation of the architecture, development 
 Deployment and Integration: Deploying the software on the required platforms and ensuring seamless integration with existing systems.
 
 
-Machine Learning Engineering
+Service 2: Machine Learning Engineering
 
 Summary
 
@@ -67,7 +67,7 @@ Documentation and Knowledge Transfer: Provide comprehensive documentation for th
 
 Deployment and Integration Support: Assist with deploying the model and integrating the API into the client's environment, ensuring seamless operation.
 
-Internal document chatbot
+Service 3:Internal document chatbot
 
 Summary
 
@@ -102,7 +102,7 @@ Process
  5. Full release of the desktop chatbot.
 
 
- E-commerce Customer Service Chatbot
+ Service 4:E-commerce Customer Service Chatbot
 
  Summary
 
