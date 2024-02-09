@@ -1,40 +1,3 @@
-AI chatbot development
-
-Summary
-
-I'm offering a comprehensive AI Chatbot Development service that focuses on delivering a seamless user experience across all digital platforms. This service is unique because it combines the creation of a sophisticated AI chat language model, a responsive cross-platform chat UI, and robust backend integration, all complemented by thorough documentation. My approach ensures not only an engaging user interaction but also a seamless integration process, tailored to enhance your digital strategy and customer engagement efforts.
-
-    Cross-Platform Chat UI Development
-
-    Adaptive UI for Multiple Platforms: Design and implement a user-friendly chat interface that is responsive and adaptable across various platforms, ensuring a seamless user experience on web, mobile, and social media channels.
-
-    AI Chat Language Model Creation
-
-    Advanced AI Chat Language Model: Develop a sophisticated AI language model tailored for chatbot interactions, utilizing the latest NLP techniques for understanding, processing, and generating human-like responses to user inquiries.
-
-    Backend System Integration
-
-    Seamless Integration with Backend Systems: Ensure robust integration of the chatbot with existing backend systems for real-time data processing and access, enabling the chatbot to pull information, perform transactions, and more, based on user queries.
-
-    Comprehensive Documentation
-
-    In-Depth Documentation and Guides: Provide detailed documentation covering the architecture, setup, and operation of the chatbot, including the UI, AI model, and backend integration. This ensures ease of deployment, maintenance, and scalability.
-
-Process
-
-Requirement Analysis: Understanding specific client needs, target audience, and platform requirements.
-
-Designing the Chat UI: Creating a user-friendly chat interface that is adaptable across various platforms.
-
-Developing the AI Language Model: Utilizing NLP techniques to build a model capable of understanding and responding to user queries.
-
-Backend Integration: Connecting the chatbot with existing backend systems to retrieve information and perform tasks based on user interactions.
-
-Testing: Rigorous testing across all platforms to ensure functionality, performance, and user experience.
-
-Deployment: Launching the chatbot on the intended platforms.
-
-Documentation: Providing comprehensive documentation for easy management and future scalability.
 
 
 Software development
@@ -71,46 +34,6 @@ Documentation: Creating detailed documentation of the architecture, development 
 
 Deployment and Integration: Deploying the software on the required platforms and ensuring seamless integration with existing systems.
 
-Web Development
-
-Summary
-
-I offer advanced full-stack development services, focusing on creating highly efficient and scalable web applications tailored to meet specific client needs. What sets me apart is my proven track record in leading development projects to success, evidenced by my role in developing a Python-based metrics monitoring system and co-inventing a patented system for analyzing linguistic relationships. My expertise not only lies in technical skills across a wide range of programming languages and technologies but also in my ability to innovate and implement practical solutions that enhance system performance and user experience.
-
-    Frontend development
-
-    Custom Interactive Frontend Application: Transform your website design into a dynamic and responsive web application. Utilizing the latest frontend technologies, I will ensure an engaging user experience with a focus on performance, accessibility, and cross-browser compatibility.
-
-    Backend development
-
-    Robust Backend Architecture: Develop a secure, scalable, and efficient backend for your application, tailored to your specific requirements. Leveraging your preferred framework and programming language, I will implement best practices in database design, API development, and server-side logic.
-
-    Documentaion
-
-    Comprehensive Project Documentation: Provide detailed documentation encompassing all aspects of the frontend and backend development processes. This includes setup instructions, architecture overview, API endpoints, and usage examples, ensuring maintainability and ease of future development.
-
-Summary
-
-I offer advanced full-stack development services, focusing on creating highly efficient and scalable web applications tailored to meet specific client needs. What sets me apart is my proven track record in leading development projects to success, evidenced by my role in developing a Python-based metrics monitoring system and co-inventing a patented system for analyzing linguistic relationships. My expertise not only lies in technical skills across a wide range of programming languages and technologies but also in my ability to innovate and implement practical solutions that enhance system performance and user experience.
-
-Process
-
-Requirement Gathering: Understand the client's needs, objectives, and the functionality required for the web application.
-
-System Design: Plan the architecture of both the frontend and backend, deciding on the tech stack and design patterns to use.
-
-Development Phase:
-
-    Frontend Development: Implement the user interface based on the provided design, focusing on user experience and responsiveness.
-    Backend Development: Code the server, database, and application logic, ensuring data processing and business logic are efficiently handled.
-
-Integration: Combine frontend and backend components to ensure they work together seamlessly.
-
-Testing: Perform thorough testing, including unit, integration, and acceptance tests, to identify and fix any issues.
-
-Deployment: Deploy the application to a production environment, ensuring it is accessible to users.
-
-Documentation: Provide detailed documentation for the application, including codebase documentation, API usage, and deployment guides.
 
 Machine Learning Engineering
 
@@ -143,3 +66,62 @@ API Development: Develop a web API that allows for easy access to the machine le
 Documentation and Knowledge Transfer: Provide comprehensive documentation for the model and API, including setup, usage guides, and examples, ensuring the client can effectively use and maintain the system.
 
 Deployment and Integration Support: Assist with deploying the model and integrating the API into the client's environment, ensuring seamless operation.
+
+Internal document chatbot
+
+Summary
+
+Mine valuable information hidden in your private text documents in a secure environment. 
+
+    Chat with your Dcuments
+
+    Chat with internal documents in various formats such as docx, pdf, txt, HTML and Markdown.
+
+    Security
+
+    Everything will be hosted in your systems providing full control and security over your sensitive data.
+
+    Extract information
+
+    Extract valuable information from your text data.
+
+    Desktop UI
+
+    We provide an easy to use desktop UI application to interface with our AI.
+
+Process
+
+    Initial meeting to define specific requirements of the chatbot.
+
+ 2. Demo of a prototype app to receive your feedback.
+
+ 3. You get early access to the demo app while we keep iterating on it.
+
+ 4. Thorough testing of the new chatbot.
+
+ 5. Full release of the desktop chatbot.
+
+
+ E-commerce Customer Service Chatbot
+
+ Summary
+
+Save countless employee hours over dealing with customer queries while providing an interactive experience to your clients. This chatbot will be seamlessly integrated to your existing site and will be tailored to your needs.
+
+Process
+
+    Initial meeting to define specific requirements of the chatbot.
+
+ 2. Demo of a prototype app to receive your feedback.
+
+ 3. You get early access to the demo app while we keep iterating on it.
+
+ 4. Integration to your website.
+
+ 5. Thorough testing of the new chatbot.
+
+ 6. Run A/B testing on customers.
+
+ 7. If positive results are seen the app would be released to you otherwise receive a full refund.
+
+ 
